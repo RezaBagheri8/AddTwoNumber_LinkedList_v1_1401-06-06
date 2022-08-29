@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\bin\Debug\net6.0\AddTwoNumbers_LinkedList.exe
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\bin\Debug\net6.0\AddTwoNumbers_LinkedList.deps.json
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\bin\Debug\net6.0\AddTwoNumbers_LinkedList.runtimeconfig.json
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\bin\Debug\net6.0\AddTwoNumbers_LinkedList.dll
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\bin\Debug\net6.0\ref\AddTwoNumbers_LinkedList.dll
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\bin\Debug\net6.0\AddTwoNumbers_LinkedList.pdb
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\AddTwoNumbers_LinkedList.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\AddTwoNumbers_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\AddTwoNumbers_LinkedList.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\AddTwoNumbers_LinkedList.AssemblyInfo.cs
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\AddTwoNumbers_LinkedList.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\AddTwoNumbers_LinkedList.dll
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\ref\AddTwoNumbers_LinkedList.dll
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\AddTwoNumbers_LinkedList.pdb
+D:\kia prjc\tamrin\AddTwoNumbers_LinkedList\AddTwoNumbers_LinkedList\obj\Debug\net6.0\AddTwoNumbers_LinkedList.genruntimeconfig.cache
